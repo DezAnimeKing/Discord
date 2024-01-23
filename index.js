@@ -23,33 +23,24 @@ client.on('ready', async () => {
   console.log(`${client.user.tag} - rich presence started!`);
 
   const r = new Discord.RichPresence()
-    .setApplicationId('')
+    .setApplicationId('1188655662880784484')
     .setType('STREAMING')
-    .setURL('https://www.youtube.com/watch?v=dQw4w9WgXcQ') //Must be a youtube video link 
-    .setState('Recording')
-    .setName('')
-    .setDetails(`Valorant [${formatTime()}]`)
+    .setURL('https://www.twitch.tv/developer') //Must be a youtube video link 
+    .setState('𝖘𝖊𝖊 ɴᴏ ᴇᴠɪʟ  ꞉ 𝖍𝖊𝖆𝖗 ɴᴏ ᴇᴠɪʟ')
+    .setName('mrnekrozyt')
+    .setDetails(`═一 ᴄ ᴜ ʀ ꜱ ᴇ ᴅ ﹐﹐﹐`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('Boring') //Text when you hover the Large image
-    .setAssetsSmallImage('') //You can put links in tenor or discord and etc.
-    .setAssetsSmallText('Twitch') //Text when you hover the Small image
-    .addButton('Watch', 'https://www.youtube.com/watch?v=dQw4w9WgXcQ')
-    .addButton('Donate', 'https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/828552196114743296/1188659067695140945/New_Project_59_3BA47F4.gif?ex=659b5405&is=6588df05&hm=cf54bdce1d7f61d7d95918c174ce0b736e5b9253acac39c331c671e319f80af1&=&width=1664&height=936') //You can put links in tenor or discord and etc.
+
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/828552196114743296/1188659603240661024/XO-Logo.png?ex=659b5485&is=6588df85&hm=656f7befec3c46cf1999d1e2&=&format=webp&quality=lossless&width=1664&height=936') //You can put links in tenor or discord and etc.
+
+    .addButton('⟬ 𝑋 ༚ 𝑂 ⟭', 'https://open.spotify.com/track/5ZicFGBDAi9J2YCVesboUp?si=KCmQHJnhSPG2uoFoblg_xQ')
+ 
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
 
-  let prevTime = null;
-  setInterval(() => {
-    const newTime = formatTime();
-    if (newTime !== prevTime) {
-      const newDetails = ` [${newTime}]`;
-      r.setDetails(newDetails);
-      client.user.setActivity(r);
-      prevTime = newTime;
-    }
-  }, 1000); // Update every second
+  
 });
 
 const mySecret = process.env['TOKEN'];
