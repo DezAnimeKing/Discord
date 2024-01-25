@@ -26,13 +26,13 @@ client.on('ready', async () => {
     .setApplicationId('1188655662880784484')
     .setType('STREAMING')
     .setURL('https://www.twitch.tv/developer') //Must be a youtube video link 
-    .setState('𝖘𝖊𝖊 ɴᴏ ᴇᴠɪʟ  ꞉ 𝖍𝖊𝖆𝖗 ɴᴏ ᴇᴠɪʟ')
+    .setState('ぷ ▸ ᴋɪɴɢ ᴏғ ᴄᴜʀsᴇs♦︎')
     .setName('mrnekrozyt')
-    .setDetails(`═一 ᴄ ᴜ ʀ ꜱ ᴇ ᴅ ﹐﹐﹐`)
+    .setDetails(`𝙔𝙤𝙪 𝙁𝙤𝙤𝙡.`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/828552196114743296/1188659067695140945/New_Project_59_3BA47F4.gif?ex=659b5405&is=6588df05&hm=cf54bdce1d7f61d7d95918c174ce0b736e5b9253acac39c331c671e319f80af1&=&width=1664&height=936') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/828552196114743296/1199976701216690186/Picsart_24-01-25_02-18-00-666.png?ex=65c48064&is=65b20b64&hm=4b5318c1d64236fb1e570e37f3aa2744ad43269127a2124d354378165ceb9d1b&') //You can put links in tenor or discord and etc.
 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/828552196114743296/1188659603240661024/XO-Logo.png?ex=659b5485&is=6588df85&hm=656f7befec3c46cf1999d1e2&=&format=webp&quality=lossless&width=1664&height=936') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/828552196114743296/1199978015279562843/New_Project_69_0C6154F.gif?ex=65c4819d&is=65b20c9d&hm=cded3e796732b4b2811b7f31f92cbe5348e73b1f0e6e770641d9f6d420863929&') //You can put links in tenor or discord and etc.
 
     .addButton('⟬ 𝑋 ༚ 𝑂 ⟭', 'https://open.spotify.com/track/5ZicFGBDAi9J2YCVesboUp?si=KCmQHJnhSPG2uoFoblg_xQ')
  
