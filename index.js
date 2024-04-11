@@ -32,8 +32,6 @@ client.on('ready', async () => {
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/828552178746654721/1227820598584021002/1227820522272854067remix-1712805641636.png?ex=6629cc0a&is=6617570a&hm=7b7daf5aa1eff7a840358c9550d2816b7a6002b6a4070e9c7f7dad6dd8d39b3d&') //You can put links in tenor or discord and etc.
 
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/828552178746654721/1227821569930297494/Picsart_24-04-10_23-22-22-102.jpg?ex=6629ccf2&is=661757f2&hm=863ebc98ac82e8c5b6ece1a50824b6780de07c6babc798aff92926171bc0e6a7&') //You can put links in tenor or discord and etc.
-
     .addButton('⟬ 𝑋 ༚ 𝑂 ⟭', 'https://open.spotify.com/track/5ZicFGBDAi9J2YCVesboUp?si=KCmQHJnhSPG2uoFoblg_xQ')
  
 
