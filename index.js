@@ -26,12 +26,12 @@ client.on('ready', async () => {
     .setApplicationId('1188655662880784484')
     .setType('STREAMING')
     .setURL('https://www.twitch.tv/developer') //Must be a youtube video link 
-    .setState('ぷ ▸')
+    .setState('│')
     .setName('mrnekrozyt')
-    .setDetails(`.`)
+    .setDetails(`│`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/828552178746654721/1227859209769713724/Picsart_24-04-11_01-53-48-163.jpg?ex=6629f000&is=66177b00&hm=8b388a5bc8b323d599154a3fd9b99fc6eafa0cdfdd237457993832a1569f2551&') //You can put links in tenor or discord and etc.
-.setAssetsLargeText('.') //Text when you hover the Large image
+.setAssetsLargeText('│') //Text when you hover the Large image
 
 .setAssetsSmallText('loser') //Text when you hover the Small image 
     .addButton('⟬ 𝑋 ༚ 𝑂 ⟭', 'https://open.spotify.com/track/5ZicFGBDAi9J2YCVesboUp?si=KCmQHJnhSPG2uoFoblg_xQ')
