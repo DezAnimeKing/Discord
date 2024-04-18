@@ -26,12 +26,12 @@ client.on('ready', async () => {
     .setApplicationId('1188655662880784484')
     .setType('STREAMING')
     .setURL('https://www.twitch.tv/developer') //Must be a youtube video link 
-    .setState('𝟐𝟎𝟎𝟒 •  || 𝐓𝐚𝐤𝐞 𝐦𝐲 𝐁𝐫𝐞𝐚𝐭𝐡')
+    .setState('ㅤ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ᥱ͟ᥲ͟ɾ͟t͟ᖾ.𝐗𝐗𝐕𝐈𝐈')
     .setName('mrnekrozyt')
-    .setDetails(`ㅤㅤ - ⦅攮斸⦆ - شهواني`)
+    .setDetails(`    ﹐﹐ㅤㅤㅤㅤ/:HD_diamondblue~1: `)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/828552196114743296/1230382870049067058/200w_1.gif?ex=66331e57&is=6620a957&hm=074e82a884019bc4ad62cc0a02537b524427e47a3cd072358fa5b26c7fbc89e3&') //You can put links in tenor or discord and etc.
-.setAssetsLargeText('ㅤ𝗰𝗮𝗻𝗰𝗲𝗹𝗹𝗲𝗱 ꞉ 𝑑𝑎𝑤𝑛 𝑓𝑚') //Text when you hover the Large image
+.setAssetsLargeText('𝐈𝐕.ᖾ͟ᥱ͟ᥲ͟ʋ͟ᥱ͟ᥒ') //Text when you hover the Large image
 
 .setAssetsSmallText('loser') //Text when you hover the Small image 
     .addButton('⟬ 𝑋 ༚ 𝑂 ⟭', 'https://open.spotify.com/track/5ZicFGBDAi9J2YCVesboUp?si=KCmQHJnhSPG2uoFoblg_xQ')
