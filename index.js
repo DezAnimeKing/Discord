@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('mrnekrozyt')
     .setDetails(`:𝟐𝟎𝟎𝟒 • || 𝐓𝐚𝐤𝐞 𝐦𝐲 𝐁𝐫𝐞𝐚𝐭𝐡。`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/828552196114743296/1230382870049067058/200w_1.gif?ex=66331e57&is=6620a957&hm=074e82a884019bc4ad62cc0a02537b524427e47a3cd072358fa5b26c7fbc89e3&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/828552178746654721/1231118906240798800/Picsart_24-04-20_01-46-44-938.png?ex=6635cbd4&is=662356d4&hm=d0d7950ffae6ad975c19dbb50535ee34c39368e0cec4402653bc4ca3ae4c920e&') //You can put links in tenor or discord and etc.
 .setAssetsLargeText('𝐈𝐕.ᖾ͟ᥱ͟ᥲ͟ʋ͟ᥱ͟ᥒ') //Text when you hover the Large image
 
 .setAssetsSmallText('loser') //Text when you hover the Small image 
