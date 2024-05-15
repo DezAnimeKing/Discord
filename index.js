@@ -28,7 +28,7 @@ client.on('ready', async () => {
     .setURL('https://www.twitch.tv/developer') //Must be a youtube video link 
     .setState('ㅤ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ᥱ͟ᥲ͟ɾ͟t͟ᖾ.𝐗𝐗𝐕𝐈𝐈')
     .setName('mrnekrozyt')
-    .setDetails(`:𝟐𝟎𝟎𝟒 • || 𝐄𝐬𝐜𝐚𝐩𝐞 𝐟𝐫𝐨𝐦 𝐋𝐚。`)
+    .setDetails(`:𝟐𝟎𝟎𝟒 • || 𝐀𝐟𝐭𝐞𝐫 𝐇𝐨𝐮𝐫𝐬。`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/828552196114743296/1240155757366739015/Picsart_24-05-15_00-15-52-214.png?ex=6645888d&is=6644370d&hm=4ae067de0e301c4df20bc45645c101d634bd5f1b720097e63e32b5c732b23b8c&') //You can put links in tenor or discord and etc.
 .setAssetsLargeText('𝐈𝐕.ᖾ͟ᥱ͟ᥲ͟ʋ͟ᥱ͟ᥒ') //Text when you hover the Large image
