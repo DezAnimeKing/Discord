@@ -28,9 +28,9 @@ client.on('ready', async () => {
     .setURL('https://www.twitch.tv/developer') //Must be a youtube video link 
     .setState('ㅤ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ᥱ͟ᥲ͟ɾ͟t͟ᖾ.𝐗𝐗𝐕𝐈𝐈')
     .setName('mrnekrozyt')
-    .setDetails(`:𝟐𝟎𝟎𝟒 • || 𝐓𝐚𝐤𝐞 𝐦𝐲 𝐁𝐫𝐞𝐚𝐭𝐡。`)
+    .setDetails(`:𝟐𝟎𝟎𝟒 • || 𝐄𝐬𝐜𝐚𝐩𝐞 𝐟𝐫𝐨𝐦 𝐋𝐚。`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/828552178746654721/1231118906240798800/Picsart_24-04-20_01-46-44-938.png?ex=6635cbd4&is=662356d4&hm=d0d7950ffae6ad975c19dbb50535ee34c39368e0cec4402653bc4ca3ae4c920e&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/828552196114743296/1240155757366739015/Picsart_24-05-15_00-15-52-214.png?ex=6645888d&is=6644370d&hm=4ae067de0e301c4df20bc45645c101d634bd5f1b720097e63e32b5c732b23b8c&') //You can put links in tenor or discord and etc.
 .setAssetsLargeText('𝐈𝐕.ᖾ͟ᥱ͟ᥲ͟ʋ͟ᥱ͟ᥒ') //Text when you hover the Large image
 
 .setAssetsSmallText('loser') //Text when you hover the Small image 
