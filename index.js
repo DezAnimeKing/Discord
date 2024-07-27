@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('mrnekrozyt')
     .setDetails(`:𝟐𝟎𝟎𝟒 • || 𝐀𝐟𝐭𝐞𝐫 𝐇𝐨𝐮𝐫𝐬。`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/828552205414039562/1240195919094485103/Picsart_24-05-15_02-52-28-030.png?ex=6645adf4&is=66445c74&hm=92f5533b506d571becc20e72c4892ca7bf5f9a053e1b63d35713e550ee900d71&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://https://media.discordapp.net/attachments/501611739671166987/1266637705371062322/Picsart_24-07-27_02-04-55-932.png?ex=66a5dfc9&is=66a48e49&hm=5bfb39d506e577b8dd56529ceacd6b5f679cced0945c735fb82095c776467846&') //You can put links in tenor or discord and etc.
 .setAssetsLargeText('𝐈𝐕.ᖾ͟ᥱ͟ᥲ͟ʋ͟ᥱ͟ᥒ') //Text when you hover the Large image
 
 .setAssetsSmallText('loser') //Text when you hover the Small image 
